@@ -1,0 +1,3 @@
+[submodule "docsite/note"]
+	path = docsite/note
+	url = git@github.com:xyz3282836/note.git
